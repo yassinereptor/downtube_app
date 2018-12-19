@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "349572914518",
+    "firebase_url": "https://downtube-c379a.firebaseio.com",
+    "project_id": "downtube-c379a",
+    "storage_bucket": "downtube-c379a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349572914518:android:6d18bbe401dd638b",
+        "android_client_info": {
+          "package_name": "com.reptor.downtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349572914518-7f5g81u5ptu9h2444pkop6jlf04vrclc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reptor.downtube",
+            "certificate_hash": "c25ecd82b91a3e412ef2a32549e7e427c93f8709"
+          }
+        },
+        {
+          "client_id": "349572914518-k3qu3tl2ndtb2rdom2lin7n2lq90tain.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBPgRef-9Dzj27fB6YCDi7t4c6LAaCRmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349572914518-k3qu3tl2ndtb2rdom2lin7n2lq90tain.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
