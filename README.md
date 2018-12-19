@@ -1,2 +1,2 @@
 # downtube_app
-Downtube is an Youtube Downloader App with flutter
+Downtube is a Youtube Downloader App written with flutter
